@@ -128,6 +128,20 @@ keywords={Coal;Planning;Power generation;Retirement;Costs;Capacity planning;Powe
 doi={10.1109/TPWRS.2025.3576787}}
 ```
 
+#### 杨旻,王佳昕\*,章家维,姜海洋,方陈,张宁.电力系统调度模型交流可行解的恢复算法[J/OL].中国电机工程学报,1-15[2025-07-20].https://doi.org/10.13334/j.0258-8013.pcsee.241538.
+
+For citation:
+
+```tex
+@article{min2025power,
+author = {杨旻 and 王佳昕 and 章家维 and 姜海洋 and 方陈 and 张宁},
+title = {电力系统调度模型交流可行解的恢复算法},
+journal = {中国电机工程学报},
+pages = {1-15},
+issn = {0258-8013},
+doi = {10.13334/j.0258-8013.pcsee.241538}}
+```
+
 ## Conference Paper
 
 ### 2021
